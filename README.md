@@ -79,4 +79,3 @@ A: Yes. Card details are tokenized and processed securely by Cray. We do not sto
 
 ## 📞 Support
 If you encounter any issues, please check the logs in **WooCommerce > Status > Logs** or contact Cray support.
-# cray-woocommerce-gateway-releases
